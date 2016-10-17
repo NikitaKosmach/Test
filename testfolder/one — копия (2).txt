@@ -1,2 +1,5 @@
 
+<<<<<<< HEAD
 2
+=======
+>>>>>>> before dek branch
