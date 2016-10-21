@@ -1,2 +1,13 @@
 
+<<<<<<< HEAD
 2
+=======
+<<<<<<< HEAD
+2
+=======
+
+2
+
+
+>>>>>>> refs/remotes/origin/gitPullRebaseBranch
+>>>>>>> refs/remotes/origin/gitPullRebaseBranch
