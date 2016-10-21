@@ -1,6 +1,16 @@
 
 2
 
+<<<<<<< HEAD
 
 2asdfasdf adskfn
 
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/gitPullRebaseBranch
+>>>>>>> refs/remotes/origin/gitPullRebaseBranch
+>>>>>>> refs/remotes/origin/gitPullRebaseBranch
