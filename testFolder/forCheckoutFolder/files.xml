@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<files channel="1" equipmentDataPoint="1">
+   <file date="17-02-2017 14:29:31" name="signal"/>
+   <history actualPeriod="20" compressionEnable="1" compressionPeriodNumber="1" compressionPeriodTag="day" compressionSkipPeriodNumber="2" description="trainingPeriod &gt;= (frameLength - frameOverlap)*2 + 1 , frameLength, frameOverlap - parameters intensivityHandler, compressionPeriodTag = day,hour,month" historyFilesNumber="52" order="DESC" percentOfLostHistoryFiles="3" percentStatusOfHistory="30" stablePeriodStatus="3" trainingPeriod="5" trainingPeriodEnable="1" trainingPeriodLastDate="11-07-2016">
+      <file date="17-02-2017 07:29:31" name="1"/>
+      <file date="17-02-2017 00:29:31" name="2"/>
+      <file date="16-02-2017 17:29:31" name="3"/>
+      <file date="16-02-2017 10:29:31" name="4"/>
+      <file date="16-02-2017 03:29:31" name="5"/>
+      <file date="15-02-2017 20:29:31" name="6"/>
+      <file date="15-02-2017 13:29:31" name="7"/>
+      <file date="15-02-2017 06:29:31" name="8"/>
+      <file date="14-02-2017 23:29:31" name="9"/>
+      <file date="14-02-2017 16:29:31" name="10"/>
+      <file date="14-02-2017 09:29:31" name="11"/>
+      <file date="14-02-2017 02:29:31" name="12"/>
+      <file date="13-02-2017 19:29:31" name="13"/>
+      <file date="13-02-2017 12:29:31" name="14"/>
+      <file date="13-02-2017 05:29:31" name="15"/>
+      <file date="12-02-2017 22:29:31" name="16"/>
+      <file date="12-02-2017 15:29:31" name="17"/>
+      <file date="12-02-2017 08:29:31" name="18"/>
+      <file date="12-02-2017 01:29:31" name="19"/>
+      <file date="11-02-2017 18:29:31" name="20"/>
+      <file date="11-02-2017 11:29:31" name="21"/>
+      <file date="11-02-2017 04:29:31" name="22"/>
+      <file date="10-02-2017 21:29:31" name="23"/>
+      <file date="10-02-2017 14:29:31" name="24"/>
+      <file date="10-02-2017 07:29:31" name="25"/>
+      <file date="10-02-2017 00:29:31" name="26"/>
+      <file date="09-02-2017 17:29:31" name="27"/>
+      <file date="09-02-2017 10:29:31" name="28"/>
+      <file date="09-02-2017 03:29:31" name="29"/>
+      <file date="08-02-2017 20:29:31" name="30"/>
+      <file date="08-02-2017 13:29:31" name="31"/>
+      <file date="08-02-2017 06:29:31" name="32"/>
+      <file date="07-02-2017 23:29:31" name="33"/>
+      <file date="07-02-2017 16:29:31" name="34"/>
+      <file date="07-02-2017 09:29:31" name="35"/>
+      <file date="07-02-2017 02:29:31" name="36"/>
+      <file date="06-02-2017 19:29:31" name="37"/>
+      <file date="06-02-2017 12:29:31" name="38"/>
+      <file date="06-02-2017 05:29:31" name="39"/>
+      <file date="05-02-2017 22:29:31" name="40"/>
+      <file date="05-02-2017 15:29:31" name="41"/>
+      <file date="05-02-2017 08:29:31" name="42"/>
+      <file date="05-02-2017 01:29:31" name="43"/>
+      <file date="04-02-2017 18:29:31" name="44"/>
+      <file date="04-02-2017 11:29:31" name="45"/>
+      <file date="04-02-2017 04:29:31" name="46"/>
+      <file date="03-02-2017 21:29:31" name="47"/>
+      <file date="03-02-2017 14:29:31" name="48"/>
+      <file date="03-02-2017 07:29:31" name="49"/>
+      <file date="03-02-2017 00:29:31" name="50"/>
+      <file date="02-02-2017 17:29:31" name="51"/>
+      <file date="02-02-2017 10:29:31" name="52"/>
+   </history>
+</files>
