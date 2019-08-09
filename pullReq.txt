@@ -9,3 +9,4 @@ BBBBBBBBBBBBBBBB
 AAAAAAAAAAAA
 testGit
 New file
+Test4
